@@ -52,13 +52,13 @@ function checkAnswer() {
 		else if ((parseInt(pos) == 1) && (choice == "C"))
 			current_string += "I believe in a gendlerless society, both online and offline."
 		else if ((parseInt(pos) == 2) && (choice == "A"))
-			current_string += " The internet is a place of communication where politics and ideology can be discussed and assessed.";
+			current_string += " The internet is a place for communication where politics and ideology can be discussed and assessed.";
 		else if ((parseInt(pos) == 2) && (choice == "B"))
-			current_string += " The internet is not always a place for politics. It is often an echo chamber, with those who 'shout' the loudest representing the majority. It is not always safe and accessible to be politically active online.";
+			current_string += " The internet is not always a place for politics. It is often an echo chamber, with those who 'shout' the loudest representing the majority. It is not always safe or accessible to be politically active online.";
 		else if ((parseInt(pos) == 2) && (choice == "C"))
-			current_string += " The internet is a place of opinion. It is a platform for discussing politics and ideology, but it does not always represent individuals. This is because the internet is not always an accessible platform and may not be a safe place to be politically active.";
+			current_string += " The internet is a place for opinions. It is a platform for discussing politics and ideology, but it does not always represent individuals. This is because the internet is not always an accessible platform and may not be a safe place to be politically active.";
 		else if ((parseInt(pos) == 3) && (choice == "A"))
-			current_string += " I believe in feminism, the notion that people of all genders, races and cultures deserve equal respect and representation.";
+			current_string += " I believe in feminism, the notion that people of all genders, races and backgrounds deserve equal respect and representation.";
 		else if ((parseInt(pos) == 3) && (choice == "B"))
 			current_string += " I do not believe that people of all genders, races and cultures deserve equal respect and representation.";
 		else if ((parseInt(pos) == 3) && (choice == "C"))
@@ -70,19 +70,19 @@ function checkAnswer() {
 		else if ((parseInt(pos) == 4) && (choice == "C"))
 			current_string += " I belive in balance. The extremes of being radical or liberal will not achieve as much as being a medium between both.";
 		else if ((parseInt(pos) == 5) && (choice == "A"))
-			current_string += " Censorship online takes away the freedom that the internet should provide. The internet should be a free place of expression that is not controlled my government or business. I have been oppressed by internet censorship, or have witnessed this oppression and it has contributed to maintaining dated political ideas.";
+			current_string += " Censorship online takes away the freedoms that the internet should provide. The internet should be a space of free expression that is not controlled by any government, business or authority. I have been oppressed/silenced by internet censorship, and/or I have witnessed this oppression/silencing and it has contributed to maintaining dated political ideas.";
 		else if ((parseInt(pos) == 5) && (choice == "B"))
-			current_string += " The main issue I face online are other users. I have experienced hate speech, discrimination and appropriation online. There are too many individuals that have a disproportionate amount of influence, such as internet bloggers and there is an overall lack of respect for individuals online.";
+			current_string += " The main issue I face online are other users. I have experienced hate speech, discrimination and appropriation online. There are too many individuals that have a disproportionate amount of influence online and there is an overall lack of respect for others online.";
 		else if ((parseInt(pos) == 5) && (choice == "C"))
-			current_string += " There should be more censorship online. Individuals who have strong influences, such as youtubers and bloggers should be moderated even more strongly due to their influence on sometimes young and impressionable viewers. Individuals spreading bigotry and hate speech should be silenced and should not be allowed to use the internet as a platform for spreading ignorance.";
+			current_string += " There should be more censorship online. Individuals who have strong influence, such as youtubers and bloggers should be moderated even more strongly due to their influence on sometimes young and impressionable viewers. Individuals spreading bigotry and hate speech should be silenced and should not be allowed to use the internet as a platform for spreading ignorance.";
 		else if ((parseInt(pos) == 6) && (choice == "A"))
 			current_string += " Success can be measured definitively. In politics you can measure success based on how many people identify and follow your political party or belief. In feminism this is shown through how many people are a part of the movement and are taking steps to make a change.";
 		else if ((parseInt(pos) == 6) && (choice == "B"))
 			current_string += " Success is measured based on results. A political movement is only successful once it has achieved the goals of its party. Once these goals have been achieved it can be considered successful. Similarly political movements online are only successful once they have achieved their online and offline goals.";
 		else if ((parseInt(pos) == 6) && (choice == "C"))
-			current_string += " Success can only be measured on an individual basis. If as an individual you feel you believe and follow a political movement or individual belief, and whole heartedly relate to and support every aspect of this movement, then it has been a successful. Measuring success numerically is a very capitalist way of thinking and does not accurately reflect the successes of political movements.";
+			current_string += " Success can only be measured on an individual basis. If as an individual you follow a political movement or belief system that fully reflects your needs and beliefs, that you can whole heartedly support and rally for, then this political movement or belief system has been successful. Measuring success numerically is a very capitalist way of thinking and does not accurately reflect real successes.";
 		else if ((parseInt(pos) == 7) && (choice == "A"))
-			current_string += " Finally, there will always be a divide online due to the nature of the internet. This is something that may be possible to overcome, but it is the nature of humankind to judge and categorize people based on their gender, race and class.";
+			current_string += " Finally, there will always be a divide online due to the nature of the internet. This is something that may be possible to overcome, but it is the nature of humankind to judge and categorise people based on their gender, race and class.";
 		else if ((parseInt(pos) == 7) && (choice == "B"))
 			current_string += " Finally, The internet is a unique place where users can have the opportunity to be represented, regardless of gender, race and class. It is a platform that allows for communication between individuals who without the internet may have never shared their beliefs, experiences and opinions.";
 		else if ((parseInt(pos) == 7) && (choice == "C"))
