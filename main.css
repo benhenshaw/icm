@@ -10,7 +10,8 @@ a { color: #999; text-decoration: none; }
 a:visited { color: #999; }
 a:hover { color: #f00; }
 nav a { margin: 0 1em 0 1em; padding: 0 0.15em 0 0.15em; }
-p { font-size: 1.0em; margin-top: 0.5em; }
+p { font-size: 1.0em; margin-top: 0.5em;
+text-align: justify; hyphens: auto; overflow-wrap: break-word; text-justify: inter-word; }
 img { width: 100%; }
 #main { padding: 0 0.3em 0 0.3em; }
 .item { margin: 1em 0 5em 0; font-size: 0.8em;}
