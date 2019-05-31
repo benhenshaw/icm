@@ -160,7 +160,7 @@ The dynamic words in the poem are selected based on environmental sensor values.
 In the final version of this mechanism, each of the changing words uses an Arduino, sensor, and servo, and 9V battery. The Arduino reads a value from the sensor, and sets the angle of the servo based on thresholds that I calibrated once the piece was set up in the space. The servos have pentagonal prisms attached to them with words on three of the sides. A pentagonal prism is used as the range of motion of the servos is too limited to put the three words on each side of a triangle prism. This was inspired by an old method of displaying train times on notice boards. I kept additional batteries at hand during the exhibition to swap out as needed, which I had to do twice.
 
 <figure>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-XfpCm6PIEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qDWD9vTMP-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <figcaption>Fig.&nbsp;17 — Iterations of the dynamic word mechanism.</figcaption>
 </figure>
 
